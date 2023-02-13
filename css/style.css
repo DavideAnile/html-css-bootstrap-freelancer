@@ -12,6 +12,17 @@ nav{
     background-color: red;
 }
 
-.col{
-    height: 200px;
+.test{
+    height: 150px;
+    border: 1px solid black;
+}
+
+#second-section{
+    background-color: #1abc9c;
+    color: white;
+}
+
+.custom-btn{
+    border: 1px solid white;
+    background-color: #1abc9c;
 }
