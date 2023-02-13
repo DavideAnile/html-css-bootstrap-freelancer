@@ -1,0 +1,17 @@
+nav{
+    
+    background-color: blue;
+}
+
+#first-section{
+    background-color: #1abc9c;
+}
+.image-container{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+}
+
+.col{
+    height: 200px;
+}
