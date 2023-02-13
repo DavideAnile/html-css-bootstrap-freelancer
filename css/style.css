@@ -3,8 +3,9 @@ nav{
     background-color: blue;
 }
 
-#first-section{
+#colored-section{
     background-color: #1abc9c;
+    color: white;
 }
 .image-container{
     width: 150px;
@@ -17,12 +18,25 @@ nav{
     border: 1px solid black;
 }
 
-#second-section{
+
+
+.first-btn{
+    border: 1px solid white;
+    background-color: #1abc9c;
+}
+
+.second-btn{
+    align-self: flex-start;
     background-color: #1abc9c;
     color: white;
 }
 
-.custom-btn{
-    border: 1px solid white;
-    background-color: #1abc9c;
+.up-footer{
+    background-color: #385068;
+    color: white;
+}
+
+.bottom-footer{
+    background-color: #27333f;
+    color: white;
 }
